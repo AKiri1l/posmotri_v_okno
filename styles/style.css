@@ -44,9 +44,6 @@ ol {
   width: 1140px;
   height: 534px;
   margin: auto;
-}
-
-.content:first-child {
   gap: 30px;
 }
 
